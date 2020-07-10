@@ -21,7 +21,7 @@ You'll need to have [Expo](https://expo.io/learn) installed on your machine in o
 
 ## Installation
 
-- `git clone https://github.com/msfcampos05/DescontoFacilApp.git`
+- `git clone https://github.com/leeandersonaz09/StackHomewithTabs.git`
 - `yarn install` / `npm install`
 
 NPM:
