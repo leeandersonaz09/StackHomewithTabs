@@ -8,7 +8,7 @@
 
 ## HOME STACK WITH TAB INSIDE A STACK
 
-![](https://gifmaker.me/PlayGIFAnimation.php?folder=20200710026haT0fXGGR49JPkFEHixtP&file=output_hYQSge.gif)
+![](https://i.picasion.com/pic90/e4f276798c0b8c02bdf68cb3fbaa9928.gif)
 
 
 ## Functionality Implementention Sprints
